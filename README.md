@@ -31,7 +31,7 @@ Usage
 You can run the API with Docker:
 
 ```
-docker run -d -p 5000:5000 singhadita4/hackerrank-api
+docker run -d -p 5000:5000 singhaditya4/hackerrank-api
 ```
 
 ### Without Docker
